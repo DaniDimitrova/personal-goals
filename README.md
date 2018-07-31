@@ -17,11 +17,11 @@ Why? [Una Kravets](https://una.im/personal-goals-guide/) and [Sofiya Semenova](h
 ### This Week's Goal: Start the journey of becoming more organized and focused!
 
 ## Things I'll Do This Week:
-- [ ] Start using this repo
+- [x] Start using this repo
 - [ ] Create a written game plan for moving packing
 - [ ] Run for 15 mins max to see how feet do
 - [ ] Use Pomodoro for at least 2/3 of the work day
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [x] Send Una a nice email (una.kravets@gmail.com)
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
 ### Things I'll Do This Month: July 2018
