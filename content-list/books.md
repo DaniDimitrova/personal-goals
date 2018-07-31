@@ -1,5 +1,8 @@
 # Books to Read
 
-- [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+- [ ] I am a strange loop by Douglas Hofstadter
+- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+
+# Books to Re-read
+
+- [ ] Restaurant at the end of the Universe by Douglas Adams
