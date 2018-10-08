@@ -12,28 +12,26 @@ Why? [Una Kravets](https://una.im/personal-goals-guide/) and [Sofiya Semenova](h
 4. Stay healthy and fit
 6. Be kind
 
-# July 30, 2018
+# October 8, 2018
 
-### This Week's Goal: Start the journey of becoming more organized and focused!
+### This Week's Goal: Get essentials set up in the apartment and start building a routine at work
 
 ## Things I'll Do This Week:
-- [x] Start using this repo
-- [ ] Create a written game plan for moving packing
-- [ ] Run for 15 mins max to see how feet do
-- [ ] Use Pomodoro for at least 2/3 of the work day
-- [x] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [ ] Use Pomodoro for at least 1/2 of the work day
+- [ ] Leave for work at a consistent time
+- [ ] Assemble 6 drawers of the Tarva Ikea dresser
+- [ ] Put away things once our things get here from storage
+- [ ] Use the building's gym once
+- [ ] Learn about women who have influenced the contemporary music scene
 
-### Things I'll Do This Month: July 2018
-- [ ] Move across the country!
-- [ ] Lower my heart rate by 2 points
-- [ ] Create the react-loopback starter repo
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+### Things I'll Do This Month: October 2018
+- [ ] Start a new job!
+- [ ] Begin establishing a healthy routine
+- [ ] Read The Startup Owner's Manual
+- [ ] Get a GP & work on being healthy
 
 ### Backlog: Side Projects :)
-- [ ] Work on expanding [DaniCast](https://danicast.herokuapp.com)
+- [ ] Clean up [DaniCast](https://danicast.herokuapp.com) and put it up on GitHub
 
 ### Backlog: Code Things I Want to Do/Play With
-1. Learn more programming languages
+1. Learn Rust fundamentals
