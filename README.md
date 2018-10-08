@@ -25,7 +25,7 @@ Why? [Una Kravets](https://una.im/personal-goals-guide/) and [Sofiya Semenova](h
 - [ ] Learn about women who have influenced the contemporary music scene
 
 ### Things I'll Do This Month: October 2018
-- [ ] Start a new job!
+- [x] Start a new job!
 - [ ] Begin establishing a healthy routine
 - [ ] Read The Startup Owner's Manual
 - [ ] Get a GP & work on being healthy
