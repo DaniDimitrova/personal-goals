@@ -19,7 +19,7 @@ Why? [Una Kravets](https://una.im/personal-goals-guide/) and [Sofiya Semenova](h
 ## Things I'll Do This Week:
 - [ ] Use Pomodoro for at least 1/2 of the work day
 - [ ] Leave for work at a consistent time
-- [ ] Assemble 6 drawers of the Tarva Ikea dresser
+- [x] Assemble 6 drawers of the Tarva Ikea dresser
 - [ ] Put away things once our things get here from storage
 - [ ] Use the building's gym once
 - [ ] Learn about women who have influenced the contemporary music scene
